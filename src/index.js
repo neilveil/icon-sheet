@@ -21,7 +21,7 @@ process.argv.slice(2).forEach(x => {
 })
 
 const iconsDir = path.resolve(config.iconsDir)
-const ttfPath = path.resolve(config.fontPath)
+const ttfPath = path.resolve(config.ttfPath)
 const woffPath = path.resolve(config.woffPath)
 const woff2Path = path.resolve(config.woff2Path)
 const stylesPath = path.resolve(config.stylesPath)

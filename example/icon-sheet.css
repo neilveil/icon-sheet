@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'icon-sheet';
-  src: url('/icon-sheet.ttf?t=1694599992095') format('truetype');
+  src: url('/icon-sheet.ttf?t=1694603384289') format('truetype'), url('/icon-sheet.woff?t=1694603384289') format('woff'), url('/icon-sheet.woff2?t=1694603384289') format('woff2');
 }
 
 .icon,
