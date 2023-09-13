@@ -1,0 +1,22 @@
+{
+  "name": "icon-sheet",
+  "version": "0.1.5",
+  "description": "Effortlessly Generate Icons from SVG files.",
+  "bin": "index.js",
+  "keywords": [
+    "browser-fonts",
+    "font-generator",
+    "icon-sheet",
+    "icons",
+    "svg-to-font",
+    "svg-to-ttf",
+    "web-font"
+  ],
+  "author": "neilveil",
+  "dependencies": {
+    "svgtofont": "^3.25.4"
+  },
+  "scripts": {
+    "start": "node index.js --iconsDir=example/icons --fontPath=example/icon-sheet.ttf --stylesDir=example/icon-sheet.css"
+  }
+}
