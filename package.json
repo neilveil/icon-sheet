@@ -1,6 +1,6 @@
 {
   "name": "icon-sheet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Effortlessly Generate Icons from SVG files.",
   "author": "neilveil",
   "keywords": [
@@ -13,6 +13,7 @@
     "web-font"
   ],
   "license": "MIT",
+  "repository": "neilveil/icon-sheet",
   "bin": "src/index.js",
   "dependencies": {
     "svgtofont": "^3.25.4"
